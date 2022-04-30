@@ -1,0 +1,9 @@
+get http://localhost:5500/v1/order
+
+###
+
+get http://localhost:5500/v1/payment
+
+###
+
+get http://localhost:5500/v2/order
